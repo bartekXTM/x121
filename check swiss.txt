@@ -1,0 +1,39 @@
+«Abc»
+Abc:
+Abc!
+Abc?
+Abc%
+Abc;
+Text above should not be marked as error in swissfr
+
+
+from tab
+word. ok ok ok
+word . not not not
+word, ok ok ok
+word , not not not
+word! ok not ok
+word ! not ok not
+word? ok not ok
+word ? not ok not
+word: not not ok
+word : ok ok not
+word; ok not ok
+word ; not ok not
+word» ok not ok
+word » not ok not
+«word ok not ok
+« word not ok not
+word % not
+word% ok
+
+Running Wild
+Running wild, lost control
+Running wild, mighty bold
+Feeling gay, reckless too
+Carefree mind, all the time, never blue!
+Always goin, don't know where
+Always showin, I don't care!
+Don't love nobody, it's not worthwhile,
+All alone, runnin’ wild!
+bla
